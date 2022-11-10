@@ -241,6 +241,18 @@ body{
     border: none;
 }
 
+.ingresar_imgs{
+    display: grid;
+    height:100px;
+    padding-right: 30px;
+    align-items: center;
+}
+
+.ingresar_img{
+    opacity: 0.5;
+}
+
+
 .ingresar_submit{
     background-color: #ff5900;
     display: block;
@@ -263,3 +275,4 @@ body{
     font-size: 20px;
     text-align: left;
 }
+
