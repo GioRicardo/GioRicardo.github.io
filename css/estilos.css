@@ -194,6 +194,7 @@ body{
 .nav_input{
     background-color: #ffffff;
     height: 50px;
+    width: 120px;
     display: block;
     padding-right: 300px;
     padding-left: 10px;
