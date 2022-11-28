@@ -191,10 +191,18 @@ body{
     overflow: hidden;
 }
 
+
 #nav_input{
     background-color: #eddec8;
     height: 50px;
     width: 700px;
+}
+.nav_input{
+    background-color: #eddec8;
+    height: 50px;
+    width: 400px;
+
+
     display: block;
     padding-right: 10px;
     padding-left: 10px;
