@@ -191,7 +191,6 @@ body{
     overflow: hidden;
 }
 
-
 #nav_input{
     background-color: #eddec8;
     height: 50px;
@@ -204,8 +203,6 @@ body{
     outline: none;
     border: none;
 }
-
-
 
 #nav_submit{
     background-color: #ff5900;
@@ -222,6 +219,7 @@ body{
 #nav_submit:hover{
     background-color: #cf4a03;
 }
+
 
 
 
