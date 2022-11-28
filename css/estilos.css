@@ -11,7 +11,7 @@ body{
     max-width: 1200px;
     margin: 0 auto;
     overflow: hidden;
-    padding: 100px 0;
+    padding: 20px 0;
 }
 
 
@@ -191,11 +191,12 @@ body{
     overflow: hidden;
 }
 
-.nav_input{
-    background-color: #ffffff;
+#nav_input{
+    background-color: #eddec8;
     height: 50px;
+    width: 700px;
     display: block;
-    padding-right: 300px;
+    padding-right: 10px;
     padding-left: 10px;
     border-radius: 6px;
     font-size: 2rem;
@@ -203,7 +204,7 @@ body{
     border: none;
 }
 
-.nav_submit{
+#nav_submit{
     background-color: #ff5900;
     display: block;
     margin-left: 10px;
@@ -215,8 +216,12 @@ body{
     border: none;
 }
 
-.nav_submit:hover{
+#nav_submit:hover{
     background-color: #cf4a03;
+}
+
+.filtro{
+    display: none;
 }
 
 
